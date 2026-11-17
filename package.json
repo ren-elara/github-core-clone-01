@@ -1,0 +1,1 @@
+{"name":"github-core-clone-entry","version":"1.0.0","type":"module","private":true,"scripts":{"start":"node main.ts"}}
